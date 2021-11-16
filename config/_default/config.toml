@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://roneo-kubesphere.netlify.app/"
 
 enableRobotsTXT = true
 
